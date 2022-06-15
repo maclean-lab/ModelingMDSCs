@@ -1,5 +1,6 @@
 # Myeloid-derived suppressor cell dynamics control outcomes in the metastatic niche
 
+### Overview 
 This repository contains code used in the analysis of myeloid-derived suppressor cell dynamics for the paper located [here](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009713). All code is written in Julia (version 1.6.2) and is contained in a Jupyter notebook (Modeling_MDSCs.ipynb). Code blocks within the Jupyter notebook are intended to be run independently. 
 
 Data used in the analysis is included in the file (tumor_data.xlsx). This data is from Spigel, D. R. et al. FIR: Efficacy, Safety, and Biomarker Analysis of a Phase II Open-Label Study of Atezolizumab in PD-L1–Selected Patients With NSCLC. Journal of Thoracic Oncology 13, 1733–1742 (2018). URL [https://www.jto.org/article/S1556-0864(18)30603-8/fulltext](https://www.jto.org/article/S1556-0864(18)30603-8/fulltext) and was also used for mathematical modeling (Study 1) in Laleh, N. G. et al. Classical mathematical models for prediction of response to chemotherapy and immunotherapy. PLOS Computational Biology 18, e1009822 (2022). URL [https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009822](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009822).
