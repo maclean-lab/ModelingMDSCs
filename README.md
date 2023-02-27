@@ -1,4 +1,4 @@
-# Myeloid-derived suppressor cell dynamics control outcomes in the metastatic niche
+# Myeloid-derived suppressor-cell dynamics control outcomes in the metastatic niche
 
 ### Overview 
 This repository contains code used in the analysis of myeloid-derived suppressor cell dynamics for the paper located [here](https://doi.org/10.1158/2326-6066.CIR-22-0617). All code is written in Julia (version 1.6.2 and 1.8.1) and is contained in a Jupyter notebook (Modeling_MDSCs.ipynb). Code blocks within the Jupyter notebook are intended to be run independently. 
